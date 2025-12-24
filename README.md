@@ -37,9 +37,5 @@ This implementation focuses on the core pipeline of symbolic control:
 - Controller synthesis for **safety, reachability, and automaton-based specifications**  
 - Concretization of symbolic controllers to **continuous control inputs**  
 - **Simulation framework** for validating the control strategies under disturbances  
-- Modular code structure to facilitate extensions and experimentation
 
----
-
-## Project Structure
 
